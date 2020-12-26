@@ -20,4 +20,4 @@
 -->
 
 
-[dailylifes's github stats](https://github-readme-stats.vercel.app/api?username=dailylifes)]
+![dailylifes's github stats](https://github-readme-stats.vercel.app/api?username=dailylifes)]
