@@ -23,4 +23,4 @@
 ![dailylifes's github stats](https://github-readme-stats.vercel.app/api?username=dailylifes)
 
                                                                  There is much more to it.
-                                                                                - by Rishabh Singh
+                                                                        - by Rishabh Singh
