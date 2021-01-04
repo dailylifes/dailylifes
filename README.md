@@ -16,10 +16,10 @@
 <a href="https://www.kaggle.com/jeffheaton">
 <img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
--->
 
 
 ![dailylifes's github stats](https://github-readme-stats.vercel.app/api?username=dailylifes)
+-->
 
                                                                  There is much more to it.
                                                                         - by Rishabh Singh
